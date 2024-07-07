@@ -1,3 +1,6 @@
 [submodule "aws_iot_nrf91"]
 	path = aws_iot_nrf91
 	url = https://github.com/thuan1091996/aws_iot_nrf91.git
+[submodule "thingy91_networking"]
+	path = thingy91_networking
+	url = https://github.com/thuan1091996/thingy91_networking.git
